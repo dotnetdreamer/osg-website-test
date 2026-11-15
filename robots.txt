@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dotnetdreamer.github.io/osg-website-test/sitemap.xml
